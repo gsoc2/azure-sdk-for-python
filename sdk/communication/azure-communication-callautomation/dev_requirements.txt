@@ -5,4 +5,4 @@
 -e ../../servicebus/azure-servicebus
 -e ../../../tools/azure-devtools
 ../../core/azure-core
-aiohttp>=3.0
+aiohttp>=3.9.2
